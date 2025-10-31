@@ -43,6 +43,7 @@ body {
 
 .hero-slide h1,
 .hero-slide h2 {
+    color: #fff;
     text-shadow: 0 10px 40px rgba(15, 23, 42, 0.45);
 }
 
