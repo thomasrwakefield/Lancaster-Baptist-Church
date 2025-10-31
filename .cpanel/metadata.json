@@ -1,0 +1,5 @@
+{
+  "project": "Lancaster Baptist Church",
+  "deployer": "cpanel",
+  "notes": "Static site auto-deployment configuration for website_e1175695."
+}
